@@ -8,17 +8,16 @@
 ## 🚀 Sobre mí
 
 Soy desarrollador backend con experiencia sólida en **WordPress avanzado, Laravel y arquitectura modular**, especializado en:
-
+- 🚀 Laravel
 - 🔌 Desarrollo de plugins complejos para WordPress
 - 🛒 Integraciones WooCommerce + ERP
-- 🔄 Sincronización de productos y stock multilenguaje (WPML)
 - 🧪 Testing con PHPUnit
 - 🐳 Docker & entornos aislados
 - ⚙️ Automatización y scripting (Bash)
 - 🧠 Explorando Machine Learning aplicado a eCommerce
 
 Me gusta construir sistemas robustos, escalables y bien estructurados.  
-Mi objetivo es trabajar en compañías de alto nivel tecnológico como Google, Amazon o empresas globales enfocadas en backend.
+Mi objetivo es trabajar en compañías de alto nivel tecnológico.
 
 ---
 
