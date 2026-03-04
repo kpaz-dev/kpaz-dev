@@ -8,13 +8,14 @@
 ## 🚀 Sobre mí
 
 Soy desarrollador backend con experiencia sólida en **WordPress avanzado, Laravel y arquitectura modular**, especializado en:
-- 🚀 Laravel
-- 🔌 Desarrollo de plugins complejos para WordPress
-- 🛒 Integraciones WooCommerce + ERP
-- 🧪 Testing con PHPUnit
-- 🐳 Docker & entornos aislados
-- ⚙️ Automatización y scripting (Bash)
-- 🧠 Explorando Machine Learning aplicado a eCommerce
+
+- 🚀 Laravel  
+- 🔌 Desarrollo de plugins complejos para WordPress  
+- 🛒 Integraciones WooCommerce + ERP  
+- 🧪 Testing con PHPUnit  
+- 🐳 Docker & entornos aislados  
+- ⚙️ Automatización y scripting (Bash)  
+- 🧠 Explorando Machine Learning aplicado a eCommerce  
 
 Me gusta construir sistemas robustos, escalables y bien estructurados.  
 Mi objetivo es trabajar en compañías de alto nivel tecnológico.
@@ -39,43 +40,53 @@ Mi objetivo es trabajar en compañías de alto nivel tecnológico.
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### Explorando
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+### Hobbies
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge)
 
 ---
 
 ## 🏗 Proyectos Destacados
 
 ### 🔹 Woo ERP Sync
+
 Plugin avanzado que conecta WooCommerce con ERP y TecDoc:
-- Arquitectura con contenedor de servicios
-- Inyección de dependencias
-- Sincronización de stock y fechas
-- Compatibilidad multilenguaje (WPML)
-- Separación por capas y responsabilidades
+
+- Arquitectura con contenedor de servicios  
+- Inyección de dependencias  
+- Sincronización de stock y fechas  
+- Compatibilidad multilenguaje (WPML)  
+- Separación por capas y responsabilidades  
+
+---
 
 ### 🔹 WordPress Plugin Boilerplate Generator
+
 Herramienta para generar estructura base profesional de plugins:
-- Organización modular
-- Preparado para testing
-- Estructura escalable
+
+- Organización modular  
+- Preparado para testing  
+- Estructura escalable  
+
+---
 
 ### 🔹 Automatización & Seguridad
+
 Scripts y herramientas enfocadas en:
-- Automatización de tareas
-- Consultas POST parametrizadas
-- Generación de combinaciones numéricas
-- Testing y validaciones automatizadas
+
+- Automatización de tareas  
+- Consultas POST parametrizadas  
+- Generación de combinaciones numéricas  
+- Testing y validaciones automatizadas  
 
 ---
 
 ## 🎯 Objetivos Profesionales
 
-- Especializarme en arquitectura backend de alto rendimiento
-- Dominar sistemas distribuidos y diseño escalable
-- Integrar Machine Learning en entornos reales
-- Trabajar en proyectos de impacto global
+- Especializarme en arquitectura backend de alto rendimiento  
+- Dominar sistemas distribuidos y diseño escalable  
+- Integrar Machine Learning en entornos reales  
+- Trabajar en proyectos de impacto global  
 
 ---
 
